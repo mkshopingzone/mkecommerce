@@ -1,0 +1,31 @@
+{
+  "name": "selleragiigo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@tinymce/tinymce-react": "^6.0.0",
+    "framer-motion": "^12.5.0",
+    "js-cookie": "^3.0.5",
+    "lucide-react": "^0.479.0",
+    "next": "15.2.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
+    "tinymce": "^7.7.2",
+    "universal-cookie": "^8.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.2",
+    "tailwindcss": "^4"
+  }
+}
